@@ -1,9 +1,9 @@
 ### HOWDY! 
 
-**Developer** in training
-Working with **NorthCoders**
-Has very strong opinions about the ultimate **DBZ** character
-*Loves fermenting chillies*
+- **Developer** in training
+- Working with **NorthCoders**
+- Has very strong opinions about the ultimate **DBZ** character
+- *Loves fermenting chillies*
 
 <!--
 **dvbenson/dvbenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
