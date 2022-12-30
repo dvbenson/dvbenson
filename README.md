@@ -1,19 +1,32 @@
-### HOWDY! 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel VB
+=================================================================================================================================
 
-- **Developer** in training
-- Working with **NorthCoders**
+Junior Software Developer in Training
+-------------------------------------
 
-<!--
-**dvbenson/dvbenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently undertaking a 13-week NorthCoders’ Bootcamp to facilitate a career change from Hospitality Management - looking to transfer my technical skills and user-centred service experience into a Software Development role.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in London
+* ✉️  You can contact me at [danielvictorbenson@gmail.com](mailto:danielvictorbenson@gmail.com)
 
-- 🔭 I’m currently working on ... becoming a developer!
-- 🌱 I’m currently learning ... Javascript, CSS, HTML with NorthCoders
-- 👯 I’m looking to collaborate on ... let's wait and see on this one
-- 🤔 I’m looking for help with ... probably too much to list
-- 💬 Ask me about ... who the greatest DBZ character is
-- 📫 How to reach me: ... figuring this out in a post-twitter world
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I make fermented hot sauce
--->
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/dvbenson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@DanielVB.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danielvictorbenson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/dvbenson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvbenson&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
