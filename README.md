@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer in Training
 -------------------------------------
 
-Currently undertaking a 13-week NorthCoders’ Bootcamp to facilitate a career change from Hospitality Management - looking to transfer my technical skills and user-centred service experience into a Software Development role.
+Career-changer currently undertaking a 13-week NorthCoders’ Bootcamp - looking to transfer my technical skills and user-centred service experience into a Software Development role.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [danielvictorbenson@gmail.com](mailto:danielvictorbenson@gmail.com)
