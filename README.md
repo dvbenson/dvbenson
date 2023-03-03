@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel VB
 =================================================================================================================================
 
-Junior Software Developer in Training
+Junior Software Developer 
 -------------------------------------
 
 Career-changer currently undertaking a 13-week NorthCoders’ Bootcamp - looking to transfer my technical skills and user-centred service experience into a Software Development role.
