@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer 
 -------------------------------------
 
-Career-changer currently undertaking a 13-week NorthCoders’ Bootcamp - looking to transfer my technical skills and user-centred service experience into a Software Development role.
+Career-changer recently graduating from an intensive 13-week Northcoders’ Bootcamp - looking to transfer my technical skills and user-centred service experience into a Dev role.
+
+Love Javascript, React and full-stack development. Branching out and teaching myself Python and Django, amongst other things. Powerful ADHDer, deep-diving into knowing everything and constantly learning to master the tech infront of me.
+
+Creative thinker (and doer), inherently gravitate towards unstanding the why and how under the hood as well as the hood. Interested in UI/UX design, graphic design and illustration. Functionality and form.
+
+Passionate about data visualisation, Ai, machine-learning and finTech.
+
+Reach out if you'd like to collaborate, network or generally speak tech!
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [danielvictorbenson@gmail.com](mailto:danielvictorbenson@gmail.com)
