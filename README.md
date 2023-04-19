@@ -13,7 +13,7 @@ Interested in UI/UX, design, illustration, data visualisation and AI/LLMs. Loves
 Reach out if you'd like to collaborate, network or generally speak tech!
 
 * 🌍  Based in the UK
-* ✉️  You can contact me at [danielvictorbenson@gmail.com](mailto:danielvictorbenson@gmail.com)
+* ✉️  You can contact me at [danielvb@danielvb.dev](mailto:danielvb@danielvb.dev)
 
 ### Skills
 
