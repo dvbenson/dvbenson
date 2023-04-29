@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Daniel VB</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer 🚀/h3>
 
-- 🔭 I’m currently working on [eCommerce REST API](https://github.com/dvbenson/badsauce_backend)
+🛠 I’m currently working on [eCommerce REST API](https://github.com/dvbenson/badsauce_backend)
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- This will form the backend of a full stack web app where I will reutilise some design graphics and prototype brand development I worked on in 2021-2022.
+- Improving on my TypeScript experience and experimenting with an ORM, the stack used on this product is PERN with a twist, exchanging React for Next.js.
+- It will showcase two new pieces of learning: Authentication and Stripe integration
 
-- 👨‍💻 All of my projects are available at [danielvb.dev](danielvb.dev)
+👨🏻‍💻 I’m currently expanding my knowledge of **TypeScript and Next.js** whilst branching out and learning design techniques on **Figma and Framer**
 
-- 💬 Ask me about **Anything UI/UX related**
+- Building on my trained stack with addon frameworks and libraries, I'm pushing myself to be adaptable with my tech skills whilst maintaining a strong core
+- There are more design projects being planned and I am driven to push myself to learn more in UI/UX design
 
-- 📫 How to reach me **danielvb@danielvb.dev**
+🗂 All of my projects are available at [danielvb.dev](danielvb.dev)
 
-- ⚡ Fun fact **I make my own Hot Sauce.**
+- I have big plans for my portfolio, embellishing on it to include a blog and design pages with custom components to share
+
+💬 Ask me about **Anything UI/UX related**
+
+- Having just read Atomic Design, and re-eading several elements of it I would love to talk to designers and frontend developers!
+
+📫 How to reach me **danielvb@danielvb.dev**
+
+⚡ Fun fact **I make my own Hot Sauce.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
