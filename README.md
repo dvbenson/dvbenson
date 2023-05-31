@@ -5,13 +5,13 @@
 
 - Check me out on [LinkedIn](https://www.linkedin.com/in/danielvictorbenson/) or email me: danielvb@danielvb.dev
 
-### 🛠 I’m currently working on [eCommerce REST API](https://github.com/dvbenson/badsauce_backend)
+### 🛠 I’m currently working on: My Personal Blog Site
 
-- This will form the backend of a full stack web app where I will reutilise some design graphics and prototype brand development I worked on in 2021-2022.
-- Improving on my TypeScript experience and experimenting with an ORM, the stack used on this product is PERN with a twist, exchanging React for Next.js.
-- It will showcase two new pieces of learning: Authentication and Stripe integration
+- I will use this blog to share my learnings, to talk about the stack I use and the blockers I encounter whilst build community for other new devs/career changers
+- It will be using the T3 stack, slightly altered
+- Real life time permitting, I will also be taking the time to add personal animations/custom designs to the site and hopefully have them available as stock images
 
-### 👨🏻‍💻 Expanding my knowledge of **TypeScript and Next.js** whilst branching out and learning design techniques on **Figma and Framer**
+### 👨🏻‍💻 Expanding my knowledge of **TypeScript and Next.js** whilst branching out and learning design techniques on **Figma**
 
 - Building on my trained stack with addon frameworks and libraries, I'm pushing myself to be adaptable with my tech skills whilst maintaining a strong core
 - There are more design projects being planned and I am driven to push myself to learn more in UI/UX design
