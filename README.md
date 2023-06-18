@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel VB</h1>
 <h2 align="center">A Full Stack Web Developer 🚀 </h2>
 
-### 🔍 Open to Full Stack Web Developer roles and collaborations
+### 🔍 Open to Networking and projects
 
 - Check me out on [LinkedIn](https://www.linkedin.com/in/danielvictorbenson/) or email me: danielvb@danielvb.dev
 
